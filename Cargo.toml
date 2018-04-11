@@ -1,7 +1,7 @@
 [package]
 name = "rusty_toolbox"
 version = "1.1.1"
-authors = ["meidhy demagny <meidhy.demagny@gmail.com>"]
+authors = ["meidhy demagny <dymayday@gmail.com>"]
 
 [dependencies]
 failure = ""
